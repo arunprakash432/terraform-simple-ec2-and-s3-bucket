@@ -44,7 +44,8 @@ This project contains Terraform configuration files to provision basic AWS resou
 ```
 /images/ec2-output.png
 ```
-<img src="images/ec2-output.png" alt="App screenshot" width="400">
+
+<img src="images/ec2-output.png" alt="App screenshot" width="900">
 
 
 ## s3-bucket-output
@@ -53,6 +54,7 @@ This project contains Terraform configuration files to provision basic AWS resou
 /images/s3-bucket-output.png
 ```
 
+<img src="images/s3-bucket-output.png" alt="App screenshot" width="900">
 
 ## Thank you
 
